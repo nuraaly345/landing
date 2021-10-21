@@ -1,0 +1,42 @@
+.text{
+    background-color: aqua;
+    height: 50px;
+}
+
+h1{
+    text-align: center;
+    color:blueviolet;
+}
+
+.lor{
+    margin-top: 5px;
+    background-color: darkgray;
+    font-size: 50px;
+    color: darkred;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.circl{
+    border: solid 1px red;
+    border-radius: 60%;
+    width: 6000px;
+    height: 450px;
+    margin-left: 10px;
+    background-color: cadetblue;
+}
+
+h2{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    color: coral;
+}
+
+.circl h2 a{
+    text-decoration: none;
+}
